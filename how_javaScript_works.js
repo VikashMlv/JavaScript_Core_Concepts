@@ -1,0 +1,1 @@
+// how java script works 
